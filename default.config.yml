@@ -32,33 +32,157 @@
 #   - .osx
 #   - .vimrc
 
-# homebrew_installed_packages:
-#   # - ansible # Installed via Pip.
-#   - autoconf
-#   - bash-completion
-#   - doxygen
-#   - gettext
-#   - gifsicle
-#   - git
-#   - gh
-#   - go
-#   - gpg
-#   - httpie
-#   - iperf
-#   - libevent
-#   - sqlite
-#   - nmap
-#   - node
-#   - nvm
-#   - php
-#   - pngpaste
-#   - ssh-copy-id
-#   - readline
-#   - openssl
-#   - pv
-#   - wget
-#   - wrk
-#   - zsh-history-substring-search
+homebrew_installed_packages:
+  - ansible
+  # - asdf
+  # - athenacli
+  # - autoconf
+  # - automake
+  # - avrdude
+  - awscli
+  # - bash
+  # - berkeley-db@5
+  # - boost
+  # - brotli
+  # - c-ares
+  # - ca-certificates
+  # - cairo
+  # - certifi
+  # - cffi
+  # - cmake
+  # - confuse
+  # - coreutils
+  # - cowsay
+  # - cryptography
+  # - dbus
+  # - docutils
+  # - duckdb
+  # - eksctl
+  # - flac
+  # - fontconfig
+  # - freetype
+  # - gcc
+  # - gdbm
+  # - gettext
+  # - giflib
+  # - gimme-aws-creds
+  - git
+  # - glab
+  # - glances
+  # - glib
+  # - gmp
+  # - gnutls
+  # - graphite2
+  # - harfbuzz
+  - helm
+  # - hidapi
+  # - highlight
+  # - httpie
+  # - hwloc
+  # - icu4c
+  # - iperf
+  # - iperf3
+  # - isl
+  # - jira-cli
+  # - jpeg-turbo
+  - jq
+  # - k2tf
+  - k9s
+  # - keyring
+  # - krb5
+  # - kubernetes-cli
+  # - lame
+  # - lazydocker
+  # - lazygit
+  # - libevent
+  # - libftdi
+  # - libgcrypt
+  # - libgpg-error
+  # - libidn2
+  # - libmaxminddb
+  # - libmpc
+  # - libnghttp2
+  # - libnghttp3
+  # - libogg
+  # - libpng
+  # - libpq
+  # - librtlsdr
+  # - libsmi
+  # - libsndfile
+  # - libsodium
+  # - libsoxr
+  # - libssh
+  # - libtasn1
+  # - libtiff
+  # - libtool
+  # - libunistring
+  # - libusb
+  # - libusb-compat
+  # - libuv
+  # - libvorbis
+  # - libwebsockets
+  # - libx11
+  # - libxau
+  # - libxcb
+  # - libxdmcp
+  # - libxext
+  # - libxrender
+  # - libyaml
+  # - liquibase
+  # - little-cms2
+  # - lua
+  # - lz4
+  # - lzo
+  # - m
+  # - mkcert- mpdecimal
+  # - mpfr
+  # - mpg123
+  # - ncurses
+  # - nettle
+  # - nmap
+  # - p11-kit
+  # - pcre2
+  # - perl
+  # - pgcli
+  # - pixman
+  # - pkg-config
+  # - pmix
+  # - pulseaudio
+  # - pycparser
+  # - pyenv
+  # - python-certifi
+  # - python-cryptography
+  # - python-packaging
+  # - python@3.13
+  # - python@3.9
+  # - rclone
+  # - readline
+  # - rtl_433
+  # - ruby
+  # - soapyrtlsdr
+  # - soapysdr
+  # - speexdsp
+  # - sphinx-doc
+  # - sqlite
+  # - telnet
+  # - terraform
+  - tmux
+  # - uhd
+  # - unbound
+  # - unixodbc
+  # - utf8proc
+  # - watch
+  # - wgcf
+  # - wget
+  # - wireguard-go
+  # - wireguard-tools
+  # - wireshark
+  # - wrk
+  # - xorgproto
+  # - xz
+  # - yq
+  # - zsh-history-substring-search
+  # - zstd
 
 # homebrew_taps: []
 
