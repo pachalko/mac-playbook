@@ -231,7 +231,7 @@ homebrew_cask_apps:
   # - uniflash
   # - vagrant
   # - virtualbox
-  # - visual-studio-code
+  - visual-studio-code
   # - vlc
   # - warp
   # - wireshark
