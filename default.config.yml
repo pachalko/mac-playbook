@@ -184,21 +184,58 @@ homebrew_installed_packages:
   # - zsh-history-substring-search
   # - zstd
 
-# homebrew_taps: []
+homebrew_taps: []
 
-# homebrew_cask_appdir: /Applications
-# homebrew_cask_apps:
-#   - chromedriver
-#   - docker
-#   - dropbox
-#   - firefox
-#   - google-chrome
-#   - handbrake
-#   - licecap
-#   - sequel-ace
-#   - slack
-#   - sublime-text
-#   - transmit
+homebrew_cask_appdir: /Applications
+homebrew_cask_apps:
+  # - android-file-transfer
+  # - android-studio
+  # - balenaetcher
+  # - betterdisplay
+  - brave-browser
+  # - caffeine
+  # - calibre
+  - clipy
+  # - cloudflare-warp
+  # - code-composer-studio
+  # - cubicsdr
+  - datagrip
+  # - docker
+  # - fritzing
+  # - godot
+  # - gqrx
+  # - grandperspective
+  # - hoppscotch
+  # - intellij-idea-ce
+  # - macspice
+  # - mqtt-explorer
+  # - netspot
+  # - numi
+  # - openemu
+  - plex
+  # - protonvpn
+  # - pycharm-ce
+  # - qlcolorcode
+  # - qlmarkdown
+  # - qlstephen
+  # - quicklook-json
+  # - rar
+  # - rectangle
+  # - sketchup
+  # - spotify
+  # - steam
+  # - temurin@8
+  # - temurin8
+  # - the-unarchiver
+  # - transmission
+  # - uniflash
+  # - vagrant
+  # - virtualbox
+  # - visual-studio-code
+  # - vlc
+  # - warp
+  # - wireshark
+  # - zerotier-one
 
 # # See `geerlingguy.mas` role documentation for usage instructions.
 # mas_installed_apps: []
@@ -226,24 +263,6 @@ homebrew_installed_packages:
 # # - name: mkdocs
 # #   state: present # present/absent/latest, default: present
 # #   version: "0.16.3" # default: N/A
-
-# # Set to 'true' to configure Sublime Text.
-# configure_sublime: false
-# sublime_base_path: '~/Library/Application Support/Sublime Text'
-# sublime_config_path: "Packages/User"
-# sublime_package_control:
-#   - "DocBlockr"
-#   - "Dockerfile Syntax Highlighting"
-#   - "FileDiffs"
-#   - "GitHub Flavored Markdown Preview"
-#   - "Jinja2"
-#   - "Package Control"
-#   - "PHP-Twig"
-#   - "Pretty JSON"
-#   - "SublimeLinter"
-#   - "SublimeLinter-contrib-yamllint"
-#   - "TrailingSpaces"
-#   - "WordCount"
 
 # # Glob pattern to ansible task files to run after all other tasks are finished.
 # post_provision_tasks: []
